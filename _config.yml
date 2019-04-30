@@ -2,7 +2,7 @@
 name: "Blockchain DevUx"
 title: "Blockchain DevUx"
 description: "Blockchain Study Group"
-logo: 'assets/images/logo.png'
+logo: 'assets/images/B DevUx-logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /study_group
 # google_analytics: 'UA-46278016-1'
@@ -21,6 +21,12 @@ authors:
     web: https://mtdk1.github.io
     twitter: https://twitter.com/kouichi_matsuda
     description: ""
+  mgr:
+    name: manager
+    avatar: assets/images/B DevUx-logo.png
+    display_name: MGR
+    web: https://bdevux.github.io
+
 
 # Plugins
 plugins:
